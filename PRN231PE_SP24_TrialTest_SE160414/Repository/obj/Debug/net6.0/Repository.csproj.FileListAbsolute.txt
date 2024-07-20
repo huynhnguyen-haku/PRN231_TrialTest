@@ -1,0 +1,17 @@
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\bin\Debug\net6.0\DAO.dll
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\bin\Debug\net6.0\DAO.pdb
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\obj\Debug\net6.0\Repository.csproj.Up2Date
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\Huynh Nguyen\source\repos\PRN231PE_SP24_TrialTest_SE160414\Repository\obj\Debug\net6.0\ref\Repository.dll

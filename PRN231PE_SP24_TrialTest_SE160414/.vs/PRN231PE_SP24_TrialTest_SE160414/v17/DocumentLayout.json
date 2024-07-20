@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\services\\watercolorspaintingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|solutionrelative:services\\watercolorspaintingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\services\\iwatercolorspaintingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|solutionrelative:services\\iwatercolorspaintingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C1B9D3A-5F4F-4D6E-B656-F570A62C07EF}|WebApi\\WebApi.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\webapi\\controllers\\watercolorspaintingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1B9D3A-5F4F-4D6E-B656-F570A62C07EF}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\watercolorspaintingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{283F14FA-3D60-445C-8A93-0F80D8453379}|DAO\\DAO.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\dao\\watercolorspaintingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{283F14FA-3D60-445C-8A93-0F80D8453379}|DAO\\DAO.csproj|solutionrelative:dao\\watercolorspaintingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\services\\watercolorspaintingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|solutionrelative:services\\watercolorspaintingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B929678-B334-4487-B828-75F2E906AF58}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\businessobjects\\models\\watercolorspainting2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B929678-B334-4487-B828-75F2E906AF58}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\watercolorspainting2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1B9D3A-5F4F-4D6E-B656-F570A62C07EF}|WebApi\\WebApi.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C1B9D3A-5F4F-4D6E-B656-F570A62C07EF}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1802F416-A378-4FFE-8D2A-8D955DEEB038}|Repository\\Repository.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\repository\\watercolorspaintingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1802F416-A378-4FFE-8D2A-8D955DEEB038}|Repository\\Repository.csproj|solutionrelative:repository\\watercolorspaintingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C1B9D3A-5F4F-4D6E-B656-F570A62C07EF}|WebApi\\WebApi.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\webapi\\dto\\watercolorspaintingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1B9D3A-5F4F-4D6E-B656-F570A62C07EF}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\watercolorspaintingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{283F14FA-3D60-445C-8A93-0F80D8453379}|DAO\\DAO.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283F14FA-3D60-445C-8A93-0F80D8453379}|DAO\\DAO.csproj|solutionrelative:dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C1B9D3A-5F4F-4D6E-B656-F570A62C07EF}|WebApi\\WebApi.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\webapi\\dto\\watercolorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1B9D3A-5F4F-4D6E-B656-F570A62C07EF}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\watercolorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,32 +51,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WatercolorsPaintingController.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\WebApi\\Controllers\\WatercolorsPaintingController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\WatercolorsPaintingController.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\WebApi\\Controllers\\WatercolorsPaintingController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\WatercolorsPaintingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:54:17.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WatercolorsPaintingDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\DAO\\WatercolorsPaintingDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\WatercolorsPaintingDAO.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\DAO\\WatercolorsPaintingDAO.cs",
+              "RelativeToolTip": "DAO\\WatercolorsPaintingDAO.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:46:12.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T08:45:06.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WatercolorsPainting2024DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\BusinessObjects\\Models\\WatercolorsPainting2024DBContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\WatercolorsPainting2024DBContext.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\BusinessObjects\\Models\\WatercolorsPainting2024DBContext.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\WatercolorsPainting2024DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:44:31.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WatercolorsPaintingService.cs",
               "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Services\\WatercolorsPaintingService.cs",
               "RelativeDocumentMoniker": "Services\\WatercolorsPaintingService.cs",
               "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Services\\WatercolorsPaintingService.cs",
               "RelativeToolTip": "Services\\WatercolorsPaintingService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T04:08:38.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T08:43:51.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IWatercolorsPaintingService.cs",
-              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Services\\IWatercolorsPaintingService.cs",
-              "RelativeDocumentMoniker": "Services\\IWatercolorsPaintingService.cs",
-              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Services\\IWatercolorsPaintingService.cs",
-              "RelativeToolTip": "Services\\IWatercolorsPaintingService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T04:08:35.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IAccountService.cs",
               "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Services\\IAccountService.cs",
               "RelativeDocumentMoniker": "Services\\IAccountService.cs",
@@ -76,60 +119,43 @@
               "RelativeToolTip": "Services\\IAccountService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T04:08:18.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T08:43:48.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AccountService.cs",
               "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Services\\AccountService.cs",
               "RelativeDocumentMoniker": "Services\\AccountService.cs",
               "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Services\\AccountService.cs",
               "RelativeToolTip": "Services\\AccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T04:08:17.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T08:43:47.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AccountDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\DAO\\AccountDAO.cs",
-              "RelativeDocumentMoniker": "DAO\\AccountDAO.cs",
-              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\DAO\\AccountDAO.cs",
-              "RelativeToolTip": "DAO\\AccountDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T04:07:02.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WatercolorsPaintingRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Repository\\WatercolorsPaintingRepo.cs",
-              "RelativeDocumentMoniker": "Repository\\WatercolorsPaintingRepo.cs",
-              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Repository\\WatercolorsPaintingRepo.cs",
-              "RelativeToolTip": "Repository\\WatercolorsPaintingRepo.cs",
+              "DocumentIndex": 7,
+              "Title": "WatercolorsPaintingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\WebApi\\DTO\\WatercolorsPaintingDTO.cs",
+              "RelativeDocumentMoniker": "WebApi\\DTO\\WatercolorsPaintingDTO.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\WebApi\\DTO\\WatercolorsPaintingDTO.cs",
+              "RelativeToolTip": "WebApi\\DTO\\WatercolorsPaintingDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T04:06:44.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T08:42:13.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WatercolorsPaintingDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\DAO\\WatercolorsPaintingDAO.cs",
-              "RelativeDocumentMoniker": "DAO\\WatercolorsPaintingDAO.cs",
-              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\DAO\\WatercolorsPaintingDAO.cs",
-              "RelativeToolTip": "DAO\\WatercolorsPaintingDAO.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAIwA0AAAAXAAAA",
+              "DocumentIndex": 8,
+              "Title": "WaterColorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\WebApi\\DTO\\WaterColorResponse.cs",
+              "RelativeDocumentMoniker": "WebApi\\DTO\\WaterColorResponse.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\WebApi\\DTO\\WaterColorResponse.cs",
+              "RelativeToolTip": "WebApi\\DTO\\WaterColorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T04:05:57.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T08:42:12.027Z"
             }
           ]
         },
