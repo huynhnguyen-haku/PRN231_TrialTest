@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\services\\watercolorspaintingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|solutionrelative:services\\watercolorspaintingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\services\\iwatercolorspaintingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|solutionrelative:services\\iwatercolorspaintingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F14FA-3D60-445C-8A93-0F80D8453379}|DAO\\DAO.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\dao\\watercolorspaintingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F14FA-3D60-445C-8A93-0F80D8453379}|DAO\\DAO.csproj|solutionrelative:dao\\watercolorspaintingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D5F5E1-0936-4004-9CBF-908D228047BF}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1802F416-A378-4FFE-8D2A-8D955DEEB038}|Repository\\Repository.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\repository\\watercolorspaintingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1802F416-A378-4FFE-8D2A-8D955DEEB038}|Repository\\Repository.csproj|solutionrelative:repository\\watercolorspaintingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283F14FA-3D60-445C-8A93-0F80D8453379}|DAO\\DAO.csproj|c:\\users\\huynh nguyen\\source\\repos\\prn231pe_sp24_trialtest_se160414\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283F14FA-3D60-445C-8A93-0F80D8453379}|DAO\\DAO.csproj|solutionrelative:dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 465,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WatercolorsPaintingService.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Services\\WatercolorsPaintingService.cs",
+              "RelativeDocumentMoniker": "Services\\WatercolorsPaintingService.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Services\\WatercolorsPaintingService.cs",
+              "RelativeToolTip": "Services\\WatercolorsPaintingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:08:38.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWatercolorsPaintingService.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Services\\IWatercolorsPaintingService.cs",
+              "RelativeDocumentMoniker": "Services\\IWatercolorsPaintingService.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Services\\IWatercolorsPaintingService.cs",
+              "RelativeToolTip": "Services\\IWatercolorsPaintingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:08:35.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:08:18.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:08:17.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\DAO\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\AccountDAO.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\DAO\\AccountDAO.cs",
+              "RelativeToolTip": "DAO\\AccountDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:07:02.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WatercolorsPaintingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Repository\\WatercolorsPaintingRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\WatercolorsPaintingRepo.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\Repository\\WatercolorsPaintingRepo.cs",
+              "RelativeToolTip": "Repository\\WatercolorsPaintingRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:06:44.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WatercolorsPaintingDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\DAO\\WatercolorsPaintingDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\WatercolorsPaintingDAO.cs",
+              "ToolTip": "C:\\Users\\Huynh Nguyen\\source\\repos\\PRN231PE_SP24_TrialTest_SE160414\\DAO\\WatercolorsPaintingDAO.cs",
+              "RelativeToolTip": "DAO\\WatercolorsPaintingDAO.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T04:05:57.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 465,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 465,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
